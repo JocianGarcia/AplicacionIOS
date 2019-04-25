@@ -1,0 +1,6 @@
+framework module Pods_RutinaGymApp {
+  umbrella header "Pods-RutinaGymApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
